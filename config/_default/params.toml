@@ -94,7 +94,7 @@ address = {street = "77 Gen. Jose Cristino", city = "Rio de Janeiro", region = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-22.5342", longitude = "-43.1331"}
+coordinates = {latitude = "-22.896573", longitude = "-43.225245"}
 
 # Directions for visitors to locate you.
 directions = "Enter Geophysic Building 1 turn left and take the stairs to Office 109 on Floor 1"
