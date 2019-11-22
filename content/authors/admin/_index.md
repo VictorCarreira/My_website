@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Victor Carreira is a PhD-candidate of geophysicsc at Observatório Nacional, Brazil. His research interests include geoscience, modeling computing, machine learning, meta-heuristics, Data Science, Big Data. He works developing new methodologies in pattern recognition.
+Victor Carreira is a PhD-candidate in geophysics at Observatório Nacional, Brazil. His research interests include geoscience, modeling computing, machine learning, meta-heuristics, Data Science, Big Data. He works developing new methodologies in pattern recognition.
 
