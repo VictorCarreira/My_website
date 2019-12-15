@@ -84,6 +84,5 @@ Foi somente Claire Cameron Patterson, geoquímico americano, que na metade do s�
  Pode-se afirmar que o planeta Terra ganhou anos com o passar do tempo. As primeiras especulações religiosas provocaram os cientistas a explicar o mundo através das deduções lógicas do método científico. Na tentativa de se datar o tempo profundo, alguns equívocos foram realizados. Contudo, estes equívocos não invalidam a tentativa em si. Somente com a descoberta e explicação de novos fenômenos naturais e do aprimoramento das técnicas de medição chegamos a uma idade conclusiva para o nosso Planeta.
 
 
-
- [audio](http://www.on.br/media/com_podcastmanager/dtin/2018-11-21_CR_VictorCarreira.mp3)
+ [Audio held in raio Mec FM 2018:](http://www.on.br/media/com_podcastmanager/dtin/2018-11-21_CR_VictorCarreira.mp3)
 
