@@ -81,4 +81,9 @@ Com a descoberta, no final do século XIX, do fenômeno da radioatividade por Be
 
 Foi somente Claire Cameron Patterson, geoquímico americano, que na metade do século XX conseguiu isolar as fontes contaminantes de Chumbo. Ao fazer isto pode-se estimar através da análise de zircões (pequenos minerais presentes em rochas capazes de resistir a altas temperaturas e pressões) em meteoritos a idade precisa da Terra. Este estudo publicado em "Age of meteorites and the Earth" em "Geochimica et Cosmochimica Acta" estabeleceu para a Terra a idade de 4,5 bilhões de anos.   
 
-Pode-se afirmar que o planeta Terra ganhou anos com o passar do tempo. As primeiras especulações religiosas provocaram os cientistas a explicar o mundo através das deduções lógicas do método científico. Na tentativa de se datar o tempo profundo, alguns equívocos foram realizados. Contudo, estes equívocos não invalidam a tentativa em si. Somente com a descoberta e explicação de novos fenômenos naturais e do aprimoramento das técnicas de medição chegamos a uma idade conclusiva para o nosso Planeta. 
+ Pode-se afirmar que o planeta Terra ganhou anos com o passar do tempo. As primeiras especulações religiosas provocaram os cientistas a explicar o mundo através das deduções lógicas do método científico. Na tentativa de se datar o tempo profundo, alguns equívocos foram realizados. Contudo, estes equívocos não invalidam a tentativa em si. Somente com a descoberta e explicação de novos fenômenos naturais e do aprimoramento das técnicas de medição chegamos a uma idade conclusiva para o nosso Planeta.
+
+
+
+ [audio](http://www.on.br/media/com_podcastmanager/dtin/2018-11-21_CR_VictorCarreira.mp3)
+
