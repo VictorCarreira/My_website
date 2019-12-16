@@ -73,20 +73,23 @@ If you want to cite this article use the bib reference bellow
 
 
 
-@article{CarreiraVR2018,
-        author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
+> @article{CarreiraVR2018,
 
-        doi = {10.22564/rbgf.v36i1.893},
+>        author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
 
-        journal = {Revista Brasileira de Geof{\'{i}}sica},
+>        doi = {10.22564/rbgf.v36i1.893},
 
-        pages = {36--59},
+>        journal = {Revista Brasileira de Geof{\'{i}}sica},
 
-        title = {Density model for the central part of Paran{\'{a}} Basin, using magnetotellurics as basement constraint, South Portion of Brazil},
+>        pages = {36--59},
 
-        volume = {1},
+>        title = {Density model for the central part of Paran{\'{a}} Basin, using magnetotellurics as basement constraint, South Portion of Brazil},
 
-        year = {2018}}
+>        volume = {1},
+
+>        year = {2018}
+
+> }
 
 
 
