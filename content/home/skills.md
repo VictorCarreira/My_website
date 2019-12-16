@@ -22,25 +22,25 @@ subtitle = ""
   
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Open-sourcer"
   description = "100%"  
   
 [[feature]]
   icon = "mendeley"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Scientific Articles plataform"
   description = "100%"
 
 [[feature]]
   icon = "kaggle"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Computing colaborative plataform"
   description = "30%"
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Pythonic skills"
   description = "80%"
 
