@@ -53,7 +53,7 @@ social:
   link: https://twitter.com/Victor_Carreira
 - icon: google-scholar
   icon_pack: ai
-  link:https://scholar.google.com.br/citations?user=A1vLKEwAAAAJ&hl=pt-BR&authuser=1
+  link: https://scholar.google.com.br/citations?hl=pt-BR&authuser=1&user=A1vLKEwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/VictorCarreira
