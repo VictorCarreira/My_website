@@ -66,6 +66,10 @@ subtitle = ""
  css_class = ""
 +++
 
+Want to know more about Machine learning in Geophysics checkout my latest publication on UERJ geophysical Society Magazine:
+
+
+
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Quickly discover relevant content by clicking [UERJ Geophysical Society Magazine](https://segchapteruerj.wixsite.com/geophysicalsociety/uerj-geophysical-society-magazine?fbclid=IwAR3d8w1pN-Pm9RcJXpdcFfF7K91m08y9fqkDMpaquuzjrUVXeLshwk9G-Rs).
 {{% /alert %}}
