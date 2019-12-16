@@ -18,30 +18,36 @@ subtitle = ""
   icon = "github"
   icon_pack = "fab"
   name = "Version control"
-  description = "90%"
+
   
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Open-sourcer"
-  description = "100%"  
+ 
   
 [[feature]]
   icon = "mendeley"
   icon_pack = "fab"
   name = "Scientific Articles plataform"
-  description = "100%"
+
 
 [[feature]]
   icon = "kaggle"
   icon_pack = "fab"
   name = "Computing colaborative plataform"
-  description = "30%"
+  
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Pythonic skills"
-  description = "80%"
+
+
+[[feature]]
+  icon = "computer-classic"
+  icon_pack = "fab"
+  name = "Fortranic Skills"
+
 
 +++
