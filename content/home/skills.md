@@ -45,7 +45,7 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "computer-classic"
+  icon = "desktop"
   icon_pack = "fab"
   name = "Fortranic Skills"
 
