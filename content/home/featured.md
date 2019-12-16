@@ -87,9 +87,7 @@ If you want to cite this article use the bib reference bellow
 
         volume = {1},
 
-        year = {2018},
-
-}
+        year = {2018}}
 
 
 
