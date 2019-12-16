@@ -73,7 +73,7 @@ If you want to cite this article use the bib reference bellow
 
 
 
-> @article{CarreiraVR2018,
+> @article {CarreiraVR2018,
 
 >        author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
 
