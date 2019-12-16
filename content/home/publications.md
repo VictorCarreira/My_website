@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Want to know more about Machine learning in Geophysics checkout my latest publication on UERJ geophysical Society Magazine:
+Want to know more about Machine learning in Geophysics checkout my latest publication on UERJ geophysical Society Magazine published in Jun 2019:
 
 
 
