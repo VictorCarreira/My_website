@@ -71,13 +71,21 @@ I've studied how to recovery sedimentary basin basement releif using eletromagne
 If you want to cite this article use the bib reference bellow
 
 @article{CarreiraVR2018,
+
         author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
+
         doi = {10.22564/rbgf.v36i1.893},
+
         journal = {Revista Brasileira de Geof{\'{i}}sica},
+
         pages = {36--59},
+
         title = {Density model for the central part of Paran{\'{a}} Basin, using magnetotellurics as basement constraint, South Portion of Brazil},
+
         volume = {1},
+
         year = {2018}
+
 }
 
 
