@@ -23,19 +23,19 @@ subtitle = ""
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
-  name = "Open-sourcer"
+  name = "Open-source"
  
   
 [[feature]]
   icon = "mendeley"
   icon_pack = "fab"
-  name = "Scientific Articles plataform"
+  name = "Scientific Articles"
 
 
 [[feature]]
   icon = "kaggle"
   icon_pack = "fab"
-  name = "Computing colaborative plataform"
+  name = "Computing colaborative"
   
 
 [[feature]]
