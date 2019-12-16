@@ -41,13 +41,13 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Pythonic skills"
+  name = "Python"
 
 
 [[feature]]
   icon = "desktop"
-  icon_pack = "fab"
-  name = "Fortranic Skills"
+  icon_pack = "fas"
+  name = "Fortran"
 
 
 +++
