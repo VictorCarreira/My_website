@@ -72,7 +72,7 @@ Cite this article using the bib reference bellow
 
 
 
-'''
+```
 
  @article{CarreiraVR2018,
         author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
@@ -82,7 +82,7 @@ Cite this article using the bib reference bellow
         title = {Density model for the central part of Paran{\'{a}} Basin, using magnetotellurics as basement constraint, South Portion of Brazil},
         volume = {1},
         year = {2018}}
-'''
+```
 
 
 
