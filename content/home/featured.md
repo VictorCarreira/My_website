@@ -63,25 +63,26 @@ subtitle = ""
  css_class = ""
 +++
 
-I've studied how to recovery sedimentary basin basement releif using eletromagnetic methods. Check out my latest publicantion of 2018.  
+Recovering a 2D sedimentary basin basement releif using eletromagnetic methods. Check out my publicantion of 2018.  
 
 
 [Density model for the central part of Paraná Basin, using magnetotellurics as basement constraint, South Portion of Brazil.](https://www.researchgate.net/publication/326427346_Density_model_for_the_central_part_of_Parana_Basin_using_magnetotellurics_as_basement_constraint_South_Portion_of_Brazil)
 
-If you want to cite this article use the bib reference bellow
+Cite this article using the bib reference bellow
 
 
 
+'''
 
-> @article{CarreiraVR2018,
->        author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
->        doi = {10.22564/rbgf.v36i1.893},
->        journal = {Revista Brasileira de Geof{\'{i}}sica},
->        pages = {36--59},
->        title = {Density model for the central part of Paran{\'{a}} Basin, using magnetotellurics as basement constraint, South Portion of Brazil},
->        volume = {1},
->        year = {2018}}
-
+ @article{CarreiraVR2018,
+        author = {Carreira, V. R. and La Terra, E. F. and Fontes S. L.},
+        doi = {10.22564/rbgf.v36i1.893},
+        journal = {Revista Brasileira de Geof{\'{i}}sica},
+        pages = {36--59},
+        title = {Density model for the central part of Paran{\'{a}} Basin, using magnetotellurics as basement constraint, South Portion of Brazil},
+        volume = {1},
+        year = {2018}}
+'''
 
 
 
