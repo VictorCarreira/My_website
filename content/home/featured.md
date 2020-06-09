@@ -63,7 +63,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Recovering a 2D sedimentary basin basement releif using eletromagnetic methods. Check out my publicantion of 2018.  
+Recovering a 2D sedimentary basin basement releif using eletromagnetic methods as constrains. Check out my publicantion of 2018.  
 
 
 [Density model for the central part of Paraná Basin, using magnetotellurics as basement constraint, South Portion of Brazil.](https://www.researchgate.net/publication/326427346_Density_model_for_the_central_part_of_Parana_Basin_using_magnetotellurics_as_basement_constraint_South_Portion_of_Brazil)
