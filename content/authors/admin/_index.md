@@ -50,7 +50,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:carreiravr@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Victor_Carreira
+  link: https://twitter.com/carreiravr
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.br/citations?hl=pt-BR&authuser=1&user=A1vLKEwAAAAJ
